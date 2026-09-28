@@ -72,7 +72,7 @@ A central object in the computations is the module of logarithmic
 derivations
 
 $$
-\operatorname{Der}(-\log f).
+\mathrm{Der}(-\log f).
 $$
 
 If
@@ -96,7 +96,7 @@ logDer
 ```
 
 implements this construction for homogeneous factors and returns
-$\operatorname{Der}(-\log f)$ as a graded submodule of a free module.
+$\mathrm{Der}(-\log f)$ as a graded submodule of a free module.
 
 The function
 
@@ -141,7 +141,7 @@ $$
 0\longrightarrow S(-7)
 \longrightarrow S(-1)^7\oplus S(-6)^3
 \longrightarrow
-\operatorname{Der}(-\log f'_{3,5})
+\mathrm{Der}(-\log f'_{3,5})
 \longrightarrow0.
 $$
 
@@ -163,7 +163,7 @@ This is the main 15-variable computation.
 The script computes
 
 $$
-\operatorname{Der}(-\log D_{3,5})
+\mathrm{Der}(-\log D_{3,5})
 $$
 
 and verifies that it has 18 minimal generators:
@@ -178,7 +178,7 @@ $$
 \longrightarrow
 R(-1)^{13}\oplus R(-10)^5
 \longrightarrow
-\operatorname{Der}(-\log D_{3,5})
+\mathrm{Der}(-\log D_{3,5})
 \longrightarrow0.
 $$
 
@@ -216,7 +216,7 @@ $$
 ### Part 4 — Rank-one locus
 
 The minimal presentation matrix of
-$\operatorname{Der}(-\log D_{3,5})$ is evaluated on a generic rank-one
+$\mathrm{Der}(-\log D_{3,5})$ is evaluated on a generic rank-one
 matrix
 
 $$
