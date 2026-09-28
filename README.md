@@ -315,24 +315,6 @@ identified by a Git commit or, preferably, by a tagged GitHub release. This
 makes it possible to associate a fixed version of the computational
 certificate with a fixed version of the paper.
 
-## Repository contents
-
-The minimal recommended repository structure is
-
-```text
-.
-├── README.md
-└── maxminors_computations.m2
-```
-
-Optionally, a saved output from the script may also be included:
-
-```text
-.
-├── README.md
-├── maxminors_computations.m2
-└── output.txt
-```
 
 ## Reference
 
