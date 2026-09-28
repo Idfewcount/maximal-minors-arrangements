@@ -207,11 +207,11 @@ degrees.
 The script computes the multidegrees of the five nonlinear generators and
 of the three syzygies. In particular,
 
-$$
+```math
 \deg\Phi_k
 =
 \big((3,3,3),(2,2,2,2,2)-e_k\big).
-$$
+```
 
 ### Part 4 — Rank-one locus
 
