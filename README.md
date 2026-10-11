@@ -3,7 +3,7 @@
 This repository contains the Macaulay2 computations accompanying the manuscript
 
 **Marek Janasz**  
-*Arrangements of maximal minors: Gale duality, complements, and the non-free 3x5 case*
+*Geometry of some determinantal arrangements*
 
 The main computational file is
 
