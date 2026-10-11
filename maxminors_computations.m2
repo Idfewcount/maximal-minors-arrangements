@@ -1,6 +1,5 @@
 -- maxminors_computations.m2
--- Macaulay2 computations for "Arrangements of maximal minors: Gale duality,
--- complements, and the non-free 3x5 case".
+-- Macaulay2 computations for "Geometry of some determinantal arrangements".
 -- Run with:   M2 --script maxminors_computations.m2
 -- Tested with Macaulay2 1.22. All computations are exact (over QQ).
 
