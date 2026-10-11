@@ -321,8 +321,7 @@ certificate with a fixed version of the paper.
 These computations accompany the manuscript
 
 > Marek Janasz,  
-> *Arrangements of maximal minors: Gale duality, complements, and the
-> non-free 3x5 case.*
+> *Geometry of some determinantal arrangements.*
 
 If you use this code in mathematical work, please cite the accompanying
 paper and refer to the archived version or tagged release of this repository.
